@@ -1,0 +1,2 @@
+"Sensitivity"	"Specificity"	"Pos.Pred.Value"	"Neg.Pred.Value"	"Precision"	"Recall"	"F1"	"Prevalence"	"Detection.Rate"	"Detection.Prevalence"	"Balanced.Accuracy"	"False.Discovery.Rate"	"MCC"
+"02_deeploc_alone/deeploc-alone_y_pred"	0.84472049689441	0.917859834212509	0.861850443599493	0.90692479523455	0.861850443599493	0.84472049689441	0.853199498117942	0.377579737335835	0.318949343339587	0.370075046904315	0.88129016555346	0.138149556400507	0.765671519763446

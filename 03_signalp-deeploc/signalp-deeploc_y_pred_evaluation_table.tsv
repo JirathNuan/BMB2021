@@ -1,0 +1,2 @@
+"Sensitivity"	"Specificity"	"Pos.Pred.Value"	"Neg.Pred.Value"	"Precision"	"Recall"	"F1"	"Prevalence"	"Detection.Rate"	"Detection.Prevalence"	"Balanced.Accuracy"	"False.Discovery.Rate"	"MCC"
+"03_signalp-deeploc/signalp-deeploc_y_pred"	0.911016949152542	0.820069204152249	0.861148197596796	0.88268156424581	0.861148197596796	0.911016949152542	0.88538091969801	0.55054432348367	0.501555209953344	0.582426127527216	0.865543076652396	0.138851802403204	0.737430430141807

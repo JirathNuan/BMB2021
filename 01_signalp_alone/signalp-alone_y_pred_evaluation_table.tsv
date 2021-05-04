@@ -1,0 +1,2 @@
+"Sensitivity"	"Specificity"	"Pos.Pred.Value"	"Neg.Pred.Value"	"Precision"	"Recall"	"F1"	"Prevalence"	"Detection.Rate"	"Detection.Prevalence"	"Balanced.Accuracy"	"False.Discovery.Rate"	"MCC"
+"01_signalp_alone/signalp-alone_y_pred"	0.879503105590062	0.564431047475509	0.55054432348367	0.885342789598109	0.55054432348367	0.879503105590062	0.677187948350072	0.377579737335835	0.332082551594747	0.603189493433396	0.721967076532785	0.44945567651633	0.439892232686776
