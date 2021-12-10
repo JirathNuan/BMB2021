@@ -25,8 +25,8 @@ evaluate <- function(dataset) {
   
   # --------- calculate MCC ----------
   library(mccr)
-  mcc_sp_alone <- mccr(dt$mcc_y_true,dt$mcc_y_pred)
-  mcc_to_table <- as.data.frame(mcc_sp_alone)
+  mcc_calc <- mccr(dt$mcc_y_true,dt$mcc_y_pred)
+  mcc_to_table <- as.data.frame(mcc_calc)
   colnames(mcc_to_table) <- "MCC"
   
   
